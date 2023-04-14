@@ -9,5 +9,6 @@
 
 canvas
 {
-    
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
 }
